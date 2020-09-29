@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Steam](https://img.shields.io/badge/Steam-blue)](https://steamcommunity.com/id/praxand) °
-![Discord](https://img.shields.io/badge/-3urobeat%230975-blueviolet) °
+![Discord](https://img.shields.io/badge/-praxand%230001-blueviolet) °
 [![Steam Group](https://img.shields.io/badge/Steam%20Group-green)](https://steamcommunity.com/groups/praxand) °
 [![My Projects](https://img.shields.io/badge/%20My%20Projects%20-blueviolet)](https://github.com/users/praxand/projects/1) °
 [![Donate](https://img.shields.io/badge/PayPal-blue)](https://paypal.me/praxand)
