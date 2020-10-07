@@ -1,4 +1,4 @@
-<h1 align="center">Hi my name is Jay</h1>
+<h1 align="center">Hey my name is Jay</h1>
 <h3 align="center">I am a 15 year old boy from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praxand" alt="praxand" /> </p>
