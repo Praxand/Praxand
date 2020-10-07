@@ -3,3 +3,10 @@
 
 ![Praxand's github stats](https://github-readme-stats.praxand.vercel.app/api?username=Praxand&theme=dark&show_icons=true)<br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praxand&layout=compact&theme=dark)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.praxand.vercel.app/api?username=Praxand&theme=dark&show_icons=true" />
+
+</details>
