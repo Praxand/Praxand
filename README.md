@@ -6,7 +6,8 @@
   <img src="https://discord.c99.nl/widget/theme-3/496737597629136896.png" />
 </a>
 
-  
+<hr />
+
 <p align="center">
 
 <a>
