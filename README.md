@@ -8,6 +8,8 @@
 
 <hr />
 
+<p align="center">
+
 <kbd>
   <a href="https://praxand.tk">
     Homepage
