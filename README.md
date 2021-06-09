@@ -8,6 +8,20 @@
 
 <hr />
 
+<kbd>
+  <a href="https://praxand.tk">
+    Homepage
+  </a>
+</kbd>
+
+<kbd>
+  <a href="https://dsc.gg/praxand">
+    Discord Server
+  </a>
+</kbd>
+
+<hr />
+
 <p align="center">
 
 <a>
