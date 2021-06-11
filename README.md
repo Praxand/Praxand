@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://dsc.bio/praxand">
+<a href="https://dsc.bio/praxandofficial">
   <img src="https://discord.c99.nl/widget/theme-3/837358848209059891.png" />
 </a>
 
